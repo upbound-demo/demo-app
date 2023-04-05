@@ -1,0 +1,9 @@
+apiVersion: infrastructure.example.org/v1alpha1
+kind: Blob
+metadata:
+  name: myclaim601829525
+  namespace: default
+spec:
+  id: myclaim601829525
+  parameters:
+    resourcegroup: my-azure-rg
